@@ -18,7 +18,7 @@
   	<link rel="stylesheet" href="https://s3.amazonaws.com/desk-wow/toolbox/tool.css">
   	
   	<!-- LOAD IN ICONS -->
-  	<script src="https://use.fontawesome.com/13b411ba91.js"></script>
+  	<script src="https://use.fontawesome.com/1ef7e78827.js"></script>
   	
   	<!-- LOAD IN JQUERY -->
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
