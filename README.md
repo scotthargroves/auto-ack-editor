@@ -1,4 +1,4 @@
-# Desk.com Reply Theme Editor App
+# Desk.com Auto-Acknowledgement Theme Editor App
 
 Repo for the [Desk Auto-Ack Theme Editor](https://auto-ack-editor.herokuapp.com).
 
